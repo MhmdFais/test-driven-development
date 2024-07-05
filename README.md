@@ -1,11 +1,21 @@
-# MERN-Project-Template
+# Test Driven Development
 
-This is a template for a MERN stack project. It includes a basic setup for a React frontend, Express backend, and MongoDB database. The project is set up to be deployed to Heroku.
+## Description
 
-## Getting Started
+This is a simple example of how to use TDD in JS.
+
+## How to run
+
+1. Clone the repository
+
+2. Run the following command in the terminal:
 
 ```bash
-git clone
-cd MERN-Project-Template
 npm install
+```
+
+3. Run the following command in the terminal:
+
+```bash
+npm test
 ```
